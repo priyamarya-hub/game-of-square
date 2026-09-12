@@ -2,6 +2,13 @@
 
 A simple interactive web project created while learning **HTML, CSS, and JavaScript**.
 
+
+## 🎮 Live Demo
+
+[Play Game](https://priyamarya-hub.github.io/game-of-square/)
+
+
+
 ## 🛠️ Technologies Used
 
 * HTML
